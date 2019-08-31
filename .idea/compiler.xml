@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="portal.app-service.main" target="1.8" />
+      <module name="portal.app-service.test" target="1.8" />
+      <module name="portal.main" target="1.8" />
+      <module name="portal.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
